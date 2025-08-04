@@ -5,6 +5,7 @@ Log integration - Config/Cloudtrail/Guardduty - fetching Status = Enable/ Disabl
 # Run - 
 python Log_integration.py
 
+# 
 
 # Terminal Result 
 
