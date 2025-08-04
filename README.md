@@ -14,4 +14,5 @@ python Log_integration.py
 
 ## Report - 
 
+<img width="1346" height="62" alt="image" src="https://github.com/user-attachments/assets/8f33d54a-db67-4e67-a7ac-d5760da78f9a" />
 
